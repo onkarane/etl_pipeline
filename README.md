@@ -6,7 +6,7 @@ The etl pipeline transforms the unstructured json data into structured csv files
 
 ## PIPELINE ARCHITECTURE
 
-![architecture](assets/Flow_Diagram.png)
+![architecture](assets/flow.png)
 
 ## AIRFLOW TASK SEQUENCE
 ![pipeline](assets/pipeline.png)
